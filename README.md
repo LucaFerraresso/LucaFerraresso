@@ -88,3 +88,7 @@ https://type-script-portfolio-iota.vercel.app/)
  
  • 💬 Mi piace confrontarmi su argomenti di front-end development, performance e ottimizzazione del codice.
 
+
+Languages and Tools:
+HTML5 CSS3 SASS JavaScript React Vite Next JS Postman Git Visual Studio Code TypeScript
+
