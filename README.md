@@ -62,4 +62,4 @@ https://type-script-portfolio-iota.vercel.app/)
  • 🔭 Attualmente lavoro su progetti avanzati con Next.js e React.
  • 🌱 Mi sto impegnando a diventare full-stack, migliorando le mie competenze in ambito back-end.
  • 💬 Mi piace confrontarmi su argomenti di front-end development, performance e ottimizzazione del codice.
- • 😄 Pronouns: Lui/Lui
+
