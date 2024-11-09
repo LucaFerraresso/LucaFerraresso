@@ -6,7 +6,9 @@ Ogni progetto mi aiuta a comprendere le dinamiche del mondo dello sviluppo web e
 
 💼 Competenze Tecniche
 
+
 Front-end
+
 
  • Linguaggi: JavaScript, TypeScript, HTML, CSS, SCSS
  
@@ -15,8 +17,10 @@ Front-end
  • UI e Componenti: JSX, TSX, Responsive Design, animazioni di testo
 
  • Ottimizzazione e Debugging: Uso di TypeScript per uno sviluppo più sicuro e prevenzione errori
+ 
 
 Back-end e Database
+
 
  • Database: MongoDB
  
