@@ -7,7 +7,9 @@ Ogni progetto mi aiuta a comprendere le dinamiche del mondo dello sviluppo web e
 💼 Competenze Tecniche
 
 
-Front-end
+
+Front-end:
+
 
 
  • Linguaggi: JavaScript, TypeScript, HTML, CSS, SCSS
@@ -18,8 +20,10 @@ Front-end
 
  • Ottimizzazione e Debugging: Uso di TypeScript per uno sviluppo più sicuro e prevenzione errori
  
+ 
 
-Back-end e Database
+Back-end e Database:
+
 
 
  • Database: MongoDB
@@ -28,29 +32,41 @@ Back-end e Database
  
  • Fondamenti: CRUD operations, autenticazione e gestione dati
 
+ 
+
 Strumenti & Altri Linguaggi
+
+
 
  • Version Control: Git e GitHub per gestione codice e versionamento
  
  • Altri Linguaggi: Conoscenza base di Node.js 
 
+ 
+
 🔧 Tecnologie Studiate
+
+
 
 Ogni tecnologia rappresenta per me una nuova possibilità di apprendimento e miglioramento. Ho una mentalità aperta a nuove soluzioni e mi piace approfondire e consolidare ciò che imparo.
 
+
+
 🚀 Progetti Principali
+
+
 
 Ecco una panoramica dei progetti significativi su cui ho lavorato. Questi progetti hanno giocato un ruolo importante nel mio sviluppo come sviluppatore, spingendomi a superare i miei limiti e ad affrontare sfide reali nel mondo del web development:
 
- • Portfolio Personale con React #1: Un sito di presentazione sviluppato con React e SCSS, con focus sulla resa visiva e semplicità d’uso.
+ • Portfolio Personale con React: Un sito di presentazione sviluppato con React e SCSS, con focus sulla resa visiva e semplicità d’uso.
  
- • Portfolio Personale con NEXTjs#2: Versione avanzata del portfolio in Next.js, con ottimizzazione SEO e supporto per contenuti dinamici.
+ • Portfolio Personale con NEXTjs: Versione avanzata del portfolio in Next.js, con ottimizzazione SEO e supporto per contenuti dinamici.
 
  • CRUD Operations con MongoDB: Applicazione full-stack per la gestione dati utente, con operazioni CRUD su MongoDB.
  
- • Progetto Finale #1: "Sicily Pulse", Applicazione su Nextjs che guida l'utente attraverso il territorio Siciliano e le sue tradizioni.
+ • Progetto Finale : "Sicily Pulse", Applicazione su Nextjs che guida l'utente attraverso il territorio Siciliano e le sue tradizioni.
  
- • Progetto Finale #2: Sito interattivo in Next.js con autenticazione Firebase e aggiornamenti in tempo reale.
+ • Progetto Finale : Sito interattivo in Next.js con autenticazione Firebase e aggiornamenti in tempo reale.
  
  • Fork Recente: Fork di un progetto open-source di stackblitz per contribuire alla community e migliorare alcune funzionalità.
 
@@ -89,6 +105,4 @@ https://type-script-portfolio-iota.vercel.app/)
  • 💬 Mi piace confrontarmi su argomenti di front-end development, performance e ottimizzazione del codice.
 
 
-Languages and Tools:
-HTML5 CSS3 SASS JavaScript React Vite Next JS Postman Git Visual Studio Code TypeScript
 
