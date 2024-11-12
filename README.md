@@ -21,27 +21,11 @@ Ogni progetto mi aiuta a comprendere le dinamiche del mondo dello sviluppo web e
  • Studiando tecnologie back-end come Firebase e MongoDB per applicazioni full-stack
  • Migliorando performance e accessibilità del codice front-end
 
-👯 Collaborazioni
-
-Sono sempre aperto a nuove opportunità di collaborazione! Che si tratti di progetti remoti, ibridi o in sede, mi piace l’idea di contribuire e imparare in contesti dinamici e stimolanti. Se hai un progetto innovativo e cerchi un front-end developer con competenze in Next.js e React, non esitare a contattarmi!
-
 📫 Contatti
 
 Se vuoi saperne di più sui miei progetti, condividere idee o fare networking, ecco dove puoi trovarmi:
-
  • LinkedIn (https://www.linkedin.com/in/luca-ferraresso/)
- 
  • Twitter (https://x.com/FerraressoLuca)
  
-
-
-⚡️ Curiosità su di Me
-
- • 🔭 Attualmente lavoro su progetti avanzati con Next.js e React.
- 
- • 🌱 Mi sto impegnando a migliorare le mie competenze in ambito back-end.
- 
- • 💬 Mi piace confrontarmi su argomenti di front-end development, performance e ottimizzazione del codice.
-
 
 
