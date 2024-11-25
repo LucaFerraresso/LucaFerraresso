@@ -23,9 +23,13 @@ Ogni progetto mi aiuta a comprendere le dinamiche del mondo dello sviluppo web e
 
 📫 Contatti
 
-Se vuoi saperne di più sui miei progetti, condividere idee o fare networking, ecco dove puoi trovarmi:
+Se vuoi condividere idee o fare networking, ecco dove puoi trovarmi:
  • LinkedIn (https://www.linkedin.com/in/luca-ferraresso/)
  • Twitter (https://x.com/FerraressoLuca)
+
+ Se vuoi saperne di più puoi visitare il mio portfolio digitale:
+ • React (https://react-portfolio-coral-five.vercel.app/)
+ • Nextjs (https://type-script-portfolio-iota.vercel.app/)
  
 
 
